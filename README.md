@@ -1,0 +1,1 @@
+This project (Recipes) will consist of an index page with links to a few recipes. It will demonstrate the use of basic HTML tags.

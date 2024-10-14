@@ -1,0 +1,20 @@
+body {
+    background: lightblue;
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: purple;
+}
+
+p {
+    font-size: 18px;
+}
+
+ul li {
+    font-weight: bold;
+}
